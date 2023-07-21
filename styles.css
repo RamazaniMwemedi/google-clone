@@ -130,7 +130,7 @@ input:focus-visible {
   padding: 10px;
   justify-content: space-between;
   border-radius: 50px;
-  width: 600px;
+  width: 60%;
   height: 30px;
 }
 .more_icons {
